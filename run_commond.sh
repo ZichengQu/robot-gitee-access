@@ -1,0 +1,1 @@
+go run . -plugin-config=config/robot-access.yaml --port=30008 --hmac-secret-file=config/hook_secret
